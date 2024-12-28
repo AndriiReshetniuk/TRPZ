@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\DAL.csproj": {}
+    "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\DAL.csproj": {
+    "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Админ-ПК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

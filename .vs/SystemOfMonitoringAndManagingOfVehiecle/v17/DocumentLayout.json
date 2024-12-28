@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|solutionrelative:dal.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DAL.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "DAL.Tests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:05:03.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T08:58:55.829Z",
               "EditorCaption": ""

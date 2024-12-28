@@ -3,11 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\repositories\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\repositories\\interfaces\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\repositories\\interfaces\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\repositories\\interfaces\\ivehieclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\ivehieclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\entities\\vehiecle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\vehiecle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\entities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\entities\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|solutionrelative:dal.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +70,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVehiecleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:35:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:34:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IStationRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IStationRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IStationRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IStationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:33:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IDriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:32:54.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:30:04.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:27:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:18:17.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Driver.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Driver.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Driver.cs",
+              "RelativeToolTip": "DAL\\Entities\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:17:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehiecle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Vehiecle.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Vehiecle.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Vehiecle.cs",
+              "RelativeToolTip": "DAL\\Entities\\Vehiecle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:16:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Station.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Station.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Station.cs",
+              "RelativeToolTip": "DAL\\Entities\\Station.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:13:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Route.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Entities\\Route.cs",
+              "RelativeToolTip": "DAL\\Entities\\Route.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:12:19.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "DAL.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL.Tests\\UnitTest1.cs",
               "RelativeToolTip": "DAL.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T09:05:03.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -47,8 +234,7 @@
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:58:55.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T08:58:55.829Z"
             }
           ]
         }

@@ -9,6 +9,5 @@ namespace DAL.Repositories.Interfaces
 {
     public interface IRouteRepository : IRepository<Route>
     {
-       // IEnumerable<Route> GetRoutesByStation(string stationId);
     }
 }

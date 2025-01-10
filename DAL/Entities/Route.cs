@@ -8,10 +8,15 @@ namespace DAL.Entities
 {
     public class Route
     {
-        public string name;
-        public Station [] stations;
-        public Vehiecle [] vehiecles;
-        public DateTime [] timeOfStations;
+        public int id { get; set; }
+        public string name { get; set; }
+
+        public Station [] stations { get; set; }
+
+        public Vehiecle [] vehiecles { get; set; }
+
+        public DateTime [] timeOfStations { get; set; }
+
 
 
     }

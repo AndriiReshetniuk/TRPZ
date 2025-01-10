@@ -8,9 +8,12 @@ namespace DAL.Entities
 {
     public class Station
     {
-        public string id;
-        public string name;
-        public double longtitude;
-        public double latitude;
+        public int id { get; set; }
+        public string name { get; set; }
+
+        public double longtitude { get; set; }
+
+        public double latitude { get; set; }
+
     }
 }

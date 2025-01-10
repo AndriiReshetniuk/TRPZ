@@ -13,11 +13,11 @@ namespace DAL.Repositories.Impl
         public RouteRepository(SystemOfMonitoringAndManagingOfComunalVehieclesContext context) : base(context)
         {
         }
-        public IEnumerable<Route> GetRoutesByStation(string stationId)
+        public IEnumerable<Route> GetRoutesByStation(int stationId)
         {
             return Find(route => route.stations.Any(station => station.id == stationId)).ToList();
         }
-        public IEnumerable<Route> GetRoutesByVehiecleID(string vehiecleId)
+        public IEnumerable<Route> GetRoutesByVehiecleID(int vehiecleId)
         {
             return Find(route => route.vehiecles.Any(vehiecle => vehiecle.id == vehiecleId)).ToList();
         }

@@ -8,8 +8,11 @@ namespace DAL.Entities
 {
     public abstract class User 
     {
-        public string id;
-        public string name;
-        public string email;
+        public int id { get; set; }
+
+        public string name { get; set; }
+
+        public string email { get; set; }
+
     }
 }

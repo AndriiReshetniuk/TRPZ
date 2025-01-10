@@ -8,9 +8,13 @@ namespace DAL.Entities
 {
     public class Vehiecle
     {
-        public Driver[] driver;
-        public string id;
-        public string technicalState;
-        public string model;
+        public Driver[] driver { get; set; }
+
+        public int id { get; set; }
+
+        public string technicalState { get; set; }
+
+        public string model { get; set; }
+
     }
 }

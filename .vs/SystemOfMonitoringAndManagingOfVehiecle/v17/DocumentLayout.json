@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TRPZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\source\\repos\\systemofmonitoringandmanagingofvehiecle\\trpz\\dal.tests\\teststationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\trpz\\dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\trpz\\dal.tests\\teststationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|solutionrelative:dal.tests\\teststationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TRPZ\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TRPZ\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:10:26.133Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestStationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL.Tests\\TestStationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TRPZ\\DAL.Tests\\TestStationRepository.cs",
               "RelativeDocumentMoniker": "DAL.Tests\\TestStationRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL.Tests\\TestStationRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TRPZ\\DAL.Tests\\TestStationRepository.cs",
               "RelativeToolTip": "DAL.Tests\\TestStationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T13:08:34.402Z",
               "EditorCaption": ""

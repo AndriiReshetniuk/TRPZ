@@ -1,22 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj": {}
+    "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj": {
+    "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Админ-ПК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Админ-ПК\\source\\repos\\SystemOfMonitoringAndManagingOfVehiecle\\TRPZ\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Админ-ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -24,16 +22,23 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "uap10.0.17763"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "uap10.0.17763": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
@@ -42,45 +47,31 @@
         }
       },
       "frameworks": {
-        "uap10.0.17763": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.NETCore.UniversalWindowsPlatform": {
-              "target": "Package",
-              "version": "[6.2.14, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
-          "warn": true
-        }
-      },
-      "runtimes": {
-        "win10-arm": {
-          "#import": []
-        },
-        "win10-arm-aot": {
-          "#import": []
-        },
-        "win10-arm64-aot": {
-          "#import": []
-        },
-        "win10-x64": {
-          "#import": []
-        },
-        "win10-x64-aot": {
-          "#import": []
-        },
-        "win10-x86": {
-          "#import": []
-        },
-        "win10-x86-aot": {
-          "#import": []
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

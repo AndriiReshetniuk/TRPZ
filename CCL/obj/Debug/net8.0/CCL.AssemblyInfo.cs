@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BLL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CCL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d233e886aa4b5d4cdcb951deb2f4d290a8e54bab")]
-[assembly: System.Reflection.AssemblyProductAttribute("BLL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BLL")]
+[assembly: System.Reflection.AssemblyProductAttribute("CCL")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CCL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

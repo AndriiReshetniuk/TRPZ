@@ -9,3 +9,14 @@ C:\Users\Админ-ПК\Desktop\Нова папка\TRPZ\DAL\obj\Debug\net8.0\D
 C:\Users\Админ-ПК\Desktop\Нова папка\TRPZ\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\Админ-ПК\Desktop\Нова папка\TRPZ\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Админ-ПК\Desktop\Нова папка\TRPZ\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\DAL\obj\Debug\net8.0\ref\DAL.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aod8vJvpC30sPKuOJJG9yWGdoorujNHdKJoc57MBBR6e4X5e+uUqlu1BNg66RFhsRqsxYk+ar8mvQ+U6tx5OvQ==",
+  "dgSpecHash": "46Y9HPsgZArF76a8qOYHHso1I6nn/zbmbNHsfzvM6pe0dxvMwd1fIUIQTebG1pR8tmIuORlEjhRReA4W172iwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

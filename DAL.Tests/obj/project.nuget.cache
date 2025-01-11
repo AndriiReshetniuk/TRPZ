@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJArP/u5LePJgynmcCrTlMjbG9sCftYWkva4FG0A120KESSFEtF0bpnP4WYgmDuMthaXkKRHKHJQvgkhRXpGvg==",
+  "dgSpecHash": "n9QIVmgXDSeBaSzGZsJWDHQfH7d4STqtPMQ4rll1vehxoab9y+BL6t8WLkvPkzFNhTAl1Z89Wsba7pPqUIPRsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL.Tests\\DAL.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL.Tests\\DAL.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

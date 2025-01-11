@@ -15,7 +15,7 @@ namespace DAL.Tests
     public class BaseRepositoryUnitTests
     {
         [Fact]
-        public void Create_InputStreetInstance_CalledAddMethodOfDBSetWithStreetInstance()
+        public void Create_InputStationInstance_CalledAddMethodOfDBSetWithStationInstance()
         {
             // Arrange
             DbContextOptions opt = new DbContextOptionsBuilder<SystemOfMonitoringAndManagingOfComunalVehieclesContext>()

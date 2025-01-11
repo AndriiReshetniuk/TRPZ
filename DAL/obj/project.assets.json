@@ -600,11 +600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Админ-ПК\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Админ-ПК\\Desktop\\Нова папка\\TRPZ\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

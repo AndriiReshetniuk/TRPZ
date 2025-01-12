@@ -16,8 +16,5 @@ namespace DAL.Entities
         public Vehiecle [] vehiecles { get; set; }
 
         public DateTime [] timeOfStations { get; set; }
-
-
-
     }
 }

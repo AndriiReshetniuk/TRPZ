@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BE5A0B3-BC7F-4D96-BA66-2CDB91805972}|BLL.Tests\\BLL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE5A0B3-BC7F-4D96-BA66-2CDB91805972}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BE5A0B3-BC7F-4D96-BA66-2CDB91805972}|BLL.Tests\\BLL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll.tests\\routeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE5A0B3-BC7F-4D96-BA66-2CDB91805972}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\routeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\services\\impl\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\services\\impl\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\impl\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\security\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\security\\identity\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\security\\identity\\logist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\logist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\security\\identity\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\security\\identity\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\dto\\vehiecledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\vehiecledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\dto\\stationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\stationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\dto\\routedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\routedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\bll\\services\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC7E1A-A4F7-4E26-941F-94B1ED622548}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\ccl\\security\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0051FB-7C08-4B5D-913A-1A629BEF6479}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\impl\\stationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\stationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\impl\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal.tests\\baserepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,40 +91,12 @@
       "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\impl\\vehieclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\vehieclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\vehiecle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\vehiecle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal\\entities\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5412310D-C406-4427-88F2-83B03D419642}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C281B9-48E2-490D-9A37-C9B87674755C}|DAL.Tests\\DAL.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D-\u043F\u043A\\desktop\\trpz lab8\\trpz\\dal.tests\\teststationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,45 +118,206 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BLL.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "BLL.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T18:23:21.084Z",
+              "WhenOpened": "2025-01-12T18:51:18.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL.Tests\\RouteServiceTests.cs",
+              "RelativeDocumentMoniker": "BLL.Tests\\RouteServiceTests.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL.Tests\\RouteServiceTests.cs",
+              "RelativeToolTip": "BLL.Tests\\RouteServiceTests.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:39:56.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Class1.cs",
-              "RelativeDocumentMoniker": "CCL\\Class1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Class1.cs",
-              "RelativeToolTip": "CCL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T18:18:24.44Z",
+              "WhenOpened": "2025-01-12T15:51:00.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\Services\\Impl\\RouteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Impl\\RouteService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\Services\\Impl\\RouteService.cs",
+              "RelativeToolTip": "BLL\\Services\\Impl\\RouteService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T15:57:28.609Z"
+              "WhenOpened": "2025-01-12T12:42:25.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\Services\\Interfaces\\IRouteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Interfaces\\IRouteService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\Services\\Interfaces\\IRouteService.cs",
+              "RelativeToolTip": "BLL\\Services\\Interfaces\\IRouteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:17:45.826Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "VehiecleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\VehiecleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\VehiecleDTO.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\VehiecleDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\VehiecleDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:53:19.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\StationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\StationDTO.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\StationDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\StationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:50:44.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\RouteDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\RouteDTO.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\RouteDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\RouteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:02:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DriverDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\DriverDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\DriverDTO.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\DTO\\DriverDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\DriverDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:02:02.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SecurityContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\SecurityContext.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\SecurityContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\SecurityContext.cs",
+              "RelativeToolTip": "CCL\\Security\\SecurityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:26:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mechanic.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Mechanic.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\Mechanic.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Mechanic.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\Mechanic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:48:36.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Admin.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\Admin.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Admin.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:38:19.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Driver.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\Driver.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Driver.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:16:52.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logist.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Logist.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\Logist.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\Logist.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\Logist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:37:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\Security\\Identity\\User.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:03:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IVehiecleRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
@@ -152,11 +325,12 @@
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IVehiecleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:28:48.3Z"
+              "WhenOpened": "2025-01-10T18:28:48.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
@@ -164,11 +338,12 @@
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:28:46.365Z"
+              "WhenOpened": "2025-01-10T18:28:46.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "IStationRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IStationRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IStationRepository.cs",
@@ -176,11 +351,12 @@
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IStationRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:28:36.635Z"
+              "WhenOpened": "2025-01-10T18:28:36.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "IRouteRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
@@ -188,11 +364,12 @@
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRouteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:28:35.555Z"
+              "WhenOpened": "2025-01-10T18:28:35.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "IDriverRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
@@ -200,11 +377,12 @@
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IDriverRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:27:35.986Z"
+              "WhenOpened": "2025-01-10T18:27:35.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "VehiecleRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\VehiecleRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\VehiecleRepository.cs",
@@ -212,131 +390,25 @@
               "RelativeToolTip": "DAL\\Repositories\\Impl\\VehiecleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:27:31.851Z"
+              "WhenOpened": "2025-01-10T18:27:31.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\UserRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:27:29.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\StationRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\StationRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\StationRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\StationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:27:27.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RouteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\RouteRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\RouteRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\RouteRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\RouteRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:26:51.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DriverRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\DriverRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\DriverRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\DriverRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\DriverRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:26:49.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:22:21.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Vehiecle.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Vehiecle.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Vehiecle.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Vehiecle.cs",
-              "RelativeToolTip": "DAL\\Entities\\Vehiecle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:57:53.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\User.cs",
-              "RelativeToolTip": "DAL\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:57:41.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Driver.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Driver.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Driver.cs",
-              "RelativeToolTip": "DAL\\Entities\\Driver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:55:34.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "Route.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Route.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\Route.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Route.cs",
               "RelativeToolTip": "DAL\\Entities\\Route.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwAEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:55:32.76Z"
+              "WhenOpened": "2025-01-10T17:55:32.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Station.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Station.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Station.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Entities\\Station.cs",
-              "RelativeToolTip": "DAL\\Entities\\Station.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:15:47.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "BaseRepositoryUnitTests.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL.Tests\\BaseRepositoryUnitTests.cs",
               "RelativeDocumentMoniker": "DAL.Tests\\BaseRepositoryUnitTests.cs",
@@ -344,23 +416,25 @@
               "RelativeToolTip": "DAL.Tests\\BaseRepositoryUnitTests.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAYwA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T14:41:26.425Z"
+              "WhenOpened": "2025-01-10T14:41:26.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\BaseRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\BaseRepository.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\Repositories\\Impl\\BaseRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA3wB0AAAAiAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T13:10:26.133Z"
+              "WhenOpened": "2025-01-10T13:10:26.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "TestStationRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D-\u041F\u041A\\Desktop\\TRPZ LAB8\\TRPZ\\DAL.Tests\\TestStationRepository.cs",
               "RelativeDocumentMoniker": "DAL.Tests\\TestStationRepository.cs",
@@ -368,7 +442,8 @@
               "RelativeToolTip": "DAL.Tests\\TestStationRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:08:34.402Z"
+              "WhenOpened": "2025-01-09T13:08:34.402Z",
+              "EditorCaption": ""
             }
           ]
         }

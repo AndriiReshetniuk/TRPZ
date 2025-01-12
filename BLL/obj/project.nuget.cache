@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OkFVJ/krpswuJ1oHODtKo0530524rubEhhnRzfF3OIra5dHdw6LhGex0TCGg67sMuC6pXT89xotdV+COPo9hhw==",
+  "dgSpecHash": "zHAuY7O/4Jti9ggSFun8NsW4DwlTUj7tgnZGPZT/mCn1V9De4Tj9EV/ndeOjdwqOJhNNDuLkgPjt3uRcC5rtVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Админ-ПК\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\Админ-ПК\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",

@@ -1,0 +1,12 @@
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\bin\Debug\net8.0\CCL.deps.json
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\bin\Debug\net8.0\CCL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\bin\Debug\net8.0\CCL.pdb
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.AssemblyInfoInputs.cache
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.AssemblyInfo.cs
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.csproj.CoreCompileInputs.cache
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.sourcelink.json
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\refint\CCL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\CCL.pdb
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\CCL\obj\Debug\net8.0\ref\CCL.dll

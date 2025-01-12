@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -217,6 +233,16 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "CCL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CCL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CCL.dll": {}
+        }
+      },
       "DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -233,6 +259,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Microsoft.EntityFrameworkCore/9.0.0": {
       "sha512": "wpG+nfnfDAw87R3ovAsUmjr3MZ4tYXf6bFqEPVAIKE6IfPml3DS//iX0DBnf8kWn5ZHSO5oi1m4d/Jf+1LifJQ==",
       "type": "package",
@@ -600,6 +641,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CCL/1.0.0": {
+      "type": "project",
+      "path": "../CCL/CCL.csproj",
+      "msbuildProject": "../CCL/CCL.csproj"
+    },
     "DAL/1.0.0": {
       "type": "project",
       "path": "../DAL/DAL.csproj",
@@ -608,6 +654,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoMapper >= 13.0.1",
+      "CCL >= 1.0.0",
       "DAL >= 1.0.0"
     ]
   },
@@ -644,6 +692,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\CCL.csproj": {
+              "projectPath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\CCL\\CCL.csproj"
+            },
             "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\Админ-ПК\\Desktop\\TRPZ LAB8\\TRPZ\\DAL\\DAL.csproj"
             }
@@ -664,6 +715,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

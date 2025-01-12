@@ -9,6 +9,5 @@ namespace DAL.Entities
     public class Driver : User
     {
         public Vehiecle [] vehiecles { get; set; }
-
     }
 }

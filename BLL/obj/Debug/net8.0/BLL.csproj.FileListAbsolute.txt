@@ -14,3 +14,5 @@ C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\BLL\obj\Debug\net8.0\BLL.dll
 C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\BLL\bin\Debug\net8.0\CCL.dll
+C:\Users\Админ-ПК\Desktop\TRPZ LAB8\TRPZ\BLL\bin\Debug\net8.0\CCL.pdb
